@@ -1,0 +1,13 @@
+/* import local fonts */
+@font-face {
+  font-family: 'seriesOrbit';
+  src: url('../assets/fonts/seriesOrbit.TTF') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'seriesOrbit', sans-serif;
+}
